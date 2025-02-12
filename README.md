@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 #### 4. Download the NSDUH dataset from [Kaggle](https://www.kaggle.com/datasets/adamhamrick/national-survey-of-drug-use-and-health-20022018).
 
-#### 5. Place the TSV file in the "dataset" folder.
+#### 5. Create "dataset" folder and place the TSV file in it.
 
 ### 6. Execute the analysis script:
 ```bash
