@@ -1,0 +1,20 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and OS-specific files
+.idea/
+*.log
+Lib/
+
+# Ignore generated model files (.pkl)
+*.pkl
+
+columns.txt
+columns.zip
